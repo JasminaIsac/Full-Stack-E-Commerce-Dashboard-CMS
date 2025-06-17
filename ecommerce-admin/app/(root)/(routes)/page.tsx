@@ -13,11 +13,7 @@ const SetupPage = () => {
     }
   }, [isOpen, onOpen]);
 
-  return (
-    <div className="p-4">
-      Future Setup Page
-    </div>
-    );
+  return null;
   }
 
 export default SetupPage;
